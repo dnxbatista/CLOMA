@@ -1,0 +1,14 @@
+C:\dev\projects\CLOMAProject\bin\Debug\net8.0\CLOMAProject.exe
+C:\dev\projects\CLOMAProject\bin\Debug\net8.0\CLOMAProject.deps.json
+C:\dev\projects\CLOMAProject\bin\Debug\net8.0\CLOMAProject.runtimeconfig.json
+C:\dev\projects\CLOMAProject\bin\Debug\net8.0\CLOMAProject.dll
+C:\dev\projects\CLOMAProject\bin\Debug\net8.0\CLOMAProject.pdb
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\CLOMAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\CLOMAProject.AssemblyInfoInputs.cache
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\CLOMAProject.AssemblyInfo.cs
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\CLOMAProject.csproj.CoreCompileInputs.cache
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\CLOMAProject.dll
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\refint\CLOMAProject.dll
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\CLOMAProject.pdb
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\CLOMAProject.genruntimeconfig.cache
+C:\dev\projects\CLOMAProject\obj\Debug\net8.0\ref\CLOMAProject.dll
