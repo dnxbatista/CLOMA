@@ -25,7 +25,7 @@ namespace CLOMAProject
                 await _tcpClient.ConnectAsync(serverIp, _port);
 
                 Console.WriteLine("Connected to server!");
-                Console.WriteLine("Type your messages and press Enter to send.");
+                Console.WriteLine("Type your messages and press Enter to send it.");
                 Console.WriteLine("Type 'exit' to end the conversation.");
                 Console.WriteLine("----------------------------------------");
 
