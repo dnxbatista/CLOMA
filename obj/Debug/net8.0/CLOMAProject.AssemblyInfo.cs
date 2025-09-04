@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLOMAProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b24c15c9a60ddcdd363d608f8628281e5b1a2737")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLOMAProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLOMAProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

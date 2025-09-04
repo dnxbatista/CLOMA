@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\projects\\CLOMAProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|c:\\dev\\projects\\clomaproject\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|c:\\dev\\projects\\clomaproject\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|solutionrelative:message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|c:\\dev\\projects\\clomaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|c:\\dev\\projects\\clomaproject\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|c:\\dev\\projects\\clomaproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|c:\\dev\\projects\\clomaproject\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|c:\\dev\\projects\\clomaproject\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|solutionrelative:connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|c:\\dev\\projects\\clomaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D180C245-AB67-4B15-B3A1-68CFA0C20576}|CLOMAProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +34,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\projects\\CLOMAProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\dev\\projects\\CLOMAProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T00:36:19.797Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\dev\\projects\\CLOMAProject\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\dev\\projects\\CLOMAProject\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-27T21:11:01.059Z",
               "EditorCaption": ""
             },
             {
@@ -54,33 +71,33 @@
               "RelativeDocumentMoniker": "ConnectionManager.cs",
               "ToolTip": "C:\\dev\\projects\\CLOMAProject\\ConnectionManager.cs",
               "RelativeToolTip": "ConnectionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T02:17:54.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\dev\\projects\\CLOMAProject\\Message.cs",
               "RelativeDocumentMoniker": "Message.cs",
               "ToolTip": "C:\\dev\\projects\\CLOMAProject\\Message.cs",
               "RelativeToolTip": "Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T02:17:41.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\dev\\projects\\CLOMAProject\\Client.cs",
               "RelativeDocumentMoniker": "Client.cs",
               "ToolTip": "C:\\dev\\projects\\CLOMAProject\\Client.cs",
               "RelativeToolTip": "Client.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABsAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T02:17:33.487Z",
               "EditorCaption": ""
@@ -93,7 +110,7 @@
               "RelativeDocumentMoniker": "Server.cs",
               "ToolTip": "C:\\dev\\projects\\CLOMAProject\\Server.cs",
               "RelativeToolTip": "Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T02:17:22.104Z",
               "EditorCaption": ""
